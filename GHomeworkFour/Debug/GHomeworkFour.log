@@ -1,0 +1,10 @@
+﻿  GHomeworkFour.cpp
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(313): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(633): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(634): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(638): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(639): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(641): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(642): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\周奕飞\source\repos\ghomeworkfour\ghomeworkfour\ghomeworkfour.cpp(651): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  GHomeworkFour.vcxproj -> C:\Users\周奕飞\source\repos\GHomeworkFour\Debug\GHomeworkFour.exe
